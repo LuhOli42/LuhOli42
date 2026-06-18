@@ -1,7 +1,5 @@
 # Olá, eu sou a Luiza!
 
-<img src="https://i.imgur.com/vsmXAOL.jpg" width="200px" align="right" >
-  <p align="left">
 Olá,sou uma mulher trans que sabe tocar alguns instrumentos musicais e tenho como minha maior paixão aprender e ser desafiada. 
 Através da programação busco viver essas minhas paixões todos os dias
 
